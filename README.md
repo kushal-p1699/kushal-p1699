@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hey! I'm Kushal P. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![GitHub kuhal-p1699](https://img.shields.io/github/followers/kushal-p1699?style=social&label=follow)](https://github.com/kushal-p1699)
+[![Linkedin: Kushal P](https://img.shields.io/badge/-Kushal%20P-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushal-p1699/)](https://www.linkedin.com/in/kushal-p1699/)
+
+I am a software developer and computer programmer with an avid interest in web and mobile application development. 
+As a core programmer, I love taking on challenges and love being part of the solution.
+
+📧 [kushal.p1699@gmail.com](mailto:kushal.p1699@gmail.com)
 
 <!--
 **kushal-p1699/kushal-p1699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
